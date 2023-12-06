@@ -1,10 +1,12 @@
 # intership_task1
 
 Content
+
 Fraud detection system used in online transactions
 This synthetic dataset is scaled down 1/4 of the original dataset and it is created just for Kaggle.
 
 columns
+
 This is a sample of 1 row with headers explanation:
 
 1,PAYMENT,1060.31,C429214117,1089.0,28.69,M1591654462,0.0,0.0,0,0
