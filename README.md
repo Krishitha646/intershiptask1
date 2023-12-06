@@ -1,11 +1,11 @@
 # intership_task1
 
-Content
+#Content
 
 Fraud detection system used in online transactions
 This synthetic dataset is scaled down 1/4 of the original dataset and it is created just for Kaggle.
 
-columns
+#columns
 
 This is a sample of 1 row with headers explanation:
 
