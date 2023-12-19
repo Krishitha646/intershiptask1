@@ -16,7 +16,7 @@ type - CASH-IN, CASH-OUT, DEBIT, PAYMENT and TRANSFER.
 
 amount - amount of the transaction in local currency.
 
-nameOrig - customer who started the transaction
+nameOrig - customer name who started the transaction
 
 oldbalanceOrg - initial balance before the transaction
 
